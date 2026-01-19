@@ -1,16 +1,53 @@
-## Hi there 👋
+## 👋 Hi, I'm Harshini 👩‍💻
 
-<!--
-**Harshini1309/Harshini1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity learner building strong fundamentals through hands-on labs  
+🎯 Aspiring Security Analyst / Penetration Testing professional  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Cybersecurity Practice – TryHackMe
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/HarshiniShankar.png)
+
+🎯 *Platform:* TryHackMe  
+🏆 *Rank:* 240,967  
+🔥 *Rooms Completed:* 15  
+🧩 *Level:* [0x8] HACKER  
+🌍 *Country:* India 🇮🇳  
+
+🔗 *TryHackMe Profile:* https://tryhackme.com/p/HarshiniShankar
+
+---
+
+## 🏁 TryHackMe – Completed Rooms
+
+| Room Name | Difficulty | Status |
+|---------|-----------|--------|
+| Linux Fundamentals | Easy | ✅ Completed |
+| Nmap | Easy | ✅ Completed |
+| Network Fundamentals | Easy | ✅ Completed |
+| Intro to Web Security | Easy | ✅ Completed |
+| Burp Suite Basics | Easy | ✅ Completed |
+| OWASP Top 10 (Intro) | Easy | ✅ Completed |
+| Intro to Pentesting | Easy | ✅ Completed |
+| Web Exploitation Basics | Medium | ✅ Completed |
+
+---
+
+## 🛠 Skills Practiced
+
+- Linux Fundamentals  
+- Network Enumeration  
+- Web Security Basics  
+- Reconnaissance Techniques  
+- Nmap & Burp Suite  
+
+---
+
+## 📈 Currently Learning
+
+- Privilege Escalation  
+- Web Exploitation  
+- Security Testing Methodologies  
+
+📌 All skills gained through hands-on TryHackMe labs
